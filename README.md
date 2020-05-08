@@ -3,4 +3,4 @@ Le versioni presenti passano i test sulla mia macchina, su macchine di colleghi 
 
 il file .zip include tutti i file presenti con la struttura delle directory corretta per comodità.
 
-//Eseguirò un update con la valutazione assegnata.
+Valutazione: 12/16
